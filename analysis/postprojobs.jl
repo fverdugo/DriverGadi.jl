@@ -1,6 +1,7 @@
 using DrWatson
 using DataFrames
 using BSON
+using CSV
 
 raw = collect_results(datadir())
 
@@ -39,5 +40,12 @@ end
 
 df = DataFrame(collect(values(dict)))
 sort!(df,order(:np,rev=false))
+
+mkpath(plotsdir())
+fn = plotsdir("summary.csv")
+CSV.write(fn,df)
+df
+
+
 
 

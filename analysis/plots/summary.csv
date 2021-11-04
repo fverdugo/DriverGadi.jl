@@ -1,0 +1,11 @@
+np,nparts,nc,rnorm,ngdofs,wct,ngcells,ir,path
+2,8,300,1.0942307034877232e-14,26730899,49.991442733,27000000,1,/home/fverdugo/Code/jl/test/DriverGadi/analysis/data/ncx300npx2nr6_ir1.bson
+3,27,300,1.0920470248994489e-14,26730899,19.331885692,27000000,1,/home/fverdugo/Code/jl/test/DriverGadi/analysis/data/ncx300npx3nr6_ir1.bson
+4,64,300,1.0979740463651017e-14,26730899,8.324429027,27000000,1,/home/fverdugo/Code/jl/test/DriverGadi/analysis/data/ncx300npx4nr6_ir1.bson
+6,216,300,1.1169083708496223e-14,26730899,2.453983415,27000000,1,/home/fverdugo/Code/jl/test/DriverGadi/analysis/data/ncx300npx6nr6_ir1.bson
+7,343,300,1.131774543243055e-14,26730899,1.977389455,27000000,1,/home/fverdugo/Code/jl/test/DriverGadi/analysis/data/ncx300npx7nr6_ir1.bson
+8,512,300,1.1418196981816036e-14,26730899,1.261883887,27000000,1,/home/fverdugo/Code/jl/test/DriverGadi/analysis/data/ncx300npx8nr6_ir1.bson
+11,1331,300,1.158827639657719e-14,26730899,0.821574096,27000000,1,/home/fverdugo/Code/jl/test/DriverGadi/analysis/data/ncx300npx11nr6_ir1.bson
+13,2197,300,1.175939523680957e-14,26730899,0.470308784,27000000,1,/home/fverdugo/Code/jl/test/DriverGadi/analysis/data/ncx300npx13nr6_ir1.bson
+16,4096,300,1.196017183865402e-14,26730899,0.301090745,27000000,1,/home/fverdugo/Code/jl/test/DriverGadi/analysis/data/ncx300npx16nr6_ir1.bson
+21,9261,300,1.2238588808751678e-14,26730899,0.116247617,27000000,1,/home/fverdugo/Code/jl/test/DriverGadi/analysis/data/ncx300npx21nr6_ir1.bson
