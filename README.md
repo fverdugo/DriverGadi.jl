@@ -61,7 +61,7 @@ julia> include("postprojobs.jl")
 ```
 
 At this point one can generate a strong scaling plot.
-For convenience a preview of the figure is displayed at the REPL.
+For convenience a preview of the figure is displayed in the REPL.
 This is useful while working remotely in the cluster.
 
 ```
@@ -88,6 +88,6 @@ julia> include("plots.jl")
 
 ```
 
-A plot image is also generated
+A plot image is also generated for later inspection.
 
 ![](analysis/plots/total_scaling.png)
