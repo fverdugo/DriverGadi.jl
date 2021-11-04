@@ -1,5 +1,6 @@
 # DriverGadi.jl
 
+A simple bench using `GridapDistributed.jl` and deployed on the Gadi supercomputer in Australia.
 
 ## Dependencies
 
