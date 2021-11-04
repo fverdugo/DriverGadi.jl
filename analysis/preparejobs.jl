@@ -15,8 +15,8 @@ np2mem = Dict(
   8 => 400,
   11 => 1000,
   13 => 1500,
-  16 => 1500,
-  21 => 3000, )
+  16 => 3000,
+  21 => 5000, )
 
 function jobdict(params)
   ncx = params[:ncx]
