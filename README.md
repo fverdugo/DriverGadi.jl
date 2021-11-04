@@ -14,7 +14,7 @@ $ julia --project=.
 (DriverGadi) pkg> precompile
 $ qsub compilejob.sh
 ```
-After 10 minutes approx you will have a sys image called `Drivergadi.so`
+After 10 minutes approx you will have a sys image called `DriverGadi.so`
 
 ## Analysis
 
